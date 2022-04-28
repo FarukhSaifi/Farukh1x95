@@ -1,4 +1,4 @@
-Hi 👋 My name is Farukh Saifi
+Hi 👋 I'm Farukh Saifi
 =============================
 
 * 🌍  I'm based in Earth 🌏
