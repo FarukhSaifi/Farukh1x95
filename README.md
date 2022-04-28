@@ -4,7 +4,7 @@ Hi 👋🏻 My name is Farukh Saifi
 * 🌍  I'm based in Earth 🌏
 * 🖥️  See my portfolio at [BOOM !!!](http://farukh.me/)
 * ✉️  You can contact me at [farook1x95@gmail.com](mailto:farook1x95@gmail.com)
-* 🧠  I'm learning NextJS , Headless CMS
+* 🧠  I'm learning NextJS & Headless CMS
 
 ### Skills
 
